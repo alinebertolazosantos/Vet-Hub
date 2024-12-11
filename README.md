@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ce46d03-8d5c-44c7-b90e-64f619673190)﻿# Projeto Vet-Hub - E-mail Marketing
+﻿# Projeto Vet-Hub - E-mail Marketing
 
 Este projeto foi desenvolvido para criar e-mails de marketing e comunicação destinados a promover a transição do **AmigoVet** para o **Vet-Hub**, destacando as melhorias e novas funcionalidades da plataforma.
 
